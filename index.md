@@ -5,7 +5,7 @@
 ## 맥용
 
 앱명 | 다운로드 | 바로가기
------------- | ------------- 
+------------ | ------------- | ------------- 
 (https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-white-orange.svg) | [Get Eclipse IDE 2020‑09](www.eclipse.org/downloads/download.php) | [핫키](https://github.com/appskey/appskey.github.io/edit/master/index.md) 
 
 
