@@ -1,3 +1,24 @@
+## Welcome to appsHotkey Pages
+
+엑셀사용자를 위한 핫키(단축키) 입니다.
+
+## F1~F12 핫키(단축키, Hotkey)
+
+Keyboard | Explain
+------------ | ------------- 
+`F1` | 엑셀도움말 
+`F2` | 셀에 내용입력 
+`F4` | 지우기 
+`F5` | 이동 
+`F6` | 메뉴 단축키 표시 
+`F7` | 맞춤법 검사 
+`F8` | 선택영역 확장 
+`F9` | 새로고침 
+`F10` | 메뉴에 단축키 표시 
+`F11` | 차트 형식의 시트 생성 
+`F12` | 다른 이름으로 저장 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/appskey/appskey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
